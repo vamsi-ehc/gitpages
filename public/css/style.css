@@ -1,0 +1,12 @@
+body{background-color: aqua;}
+
+.page{
+    height: 1000px;
+    width: 100%;
+    background: rgb(255,255,255);
+background-image : linear-gradient( rgba(255,255,255,1) 0%, rgba(121,9,111,1) 89%, rgba(0,212,255,1) 100%);
+}
+.navbar{
+    height: 50px;
+    background-color: white;
+}
